@@ -1,3 +1,3 @@
 # DIAGRAMA ENTIDAD RELACION DE PROYECTO EATFIT
 
-![](https://github.com/Eat-Fit/ERM-DB/blob/main/Untitled%20Diagram.png)
+![](https://github.com/Eat-Fit/ERM-DB/blob/main/EntityRelationshipModel.png)
